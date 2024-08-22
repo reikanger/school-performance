@@ -1,4 +1,4 @@
-# homework4
+# School Performance Analysis
 
 Open the PyCitySchools.ipynb file in [Jupyter Lab](https://jupyter.org/)
 
